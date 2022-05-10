@@ -16,24 +16,26 @@
         <div class="table-responsive">                
             <table id="mytable" class="table table-bordred table-striped">
                 <thead>
-                    <th>Nama Lengkap</th>
-                    <th>NIM</th>
-                    <th>Jurusan</th>
-                    <th>Fakultas</th>
-                    <th>Universitas</th>
+                    <th>Device</th>
+                    <th>cpu_rating</th>
+                    <th>gpu_rating</th>
+                    <th>memory_rating</th>
+                    <th>user_experience_rating</th>
+                    <th>total_score_rating</th>
                 </thead>
             <tbody> 
-                @foreach($mahasiswa as $mhs)
+                @foreach($benchmarks as $bch)
                 <tr>
-                    <td>{{$mhs->nama}}</td>
-                    <td>{{$mhs->nim}}</td>
-                    <td>{{$mhs->jurusan}}</td>
-                    <td>{{$mhs->fakultas}}</td>
-                    <td>{{$mhs->univ}}</td>
+                    <td>{{$bch->Device}}</td>
+                    <td>{{$bch->cpu_rating}}</td>
+                    <td>{{$bch->gpu_rating}}</td>
+                    <td>{{$bch->memory_rating}}</td>
+                    <td>{{$bch->user_experience_rating}}</td>
+                    <td>{{$bch->total_score_rating}}</td>
                     <td>
-                        <a href="/mahasiswa/edit/{{ $mhs->nim}}">Edit</a>
+                        <a href="/mahasiswa/edit/{{ $bch->cpu_rating}}">Edit</a>
                         <!-- <a href="">Edit</a>&nbsp;&nbsp;&nbsp; -->
-                        <a style="color:red;" href="/mahasiswa/hapus/{{ $mhs->nim}}">Hapus</a>
+                        <a style="color:red;" href="/mahasiswa/hapus/{{ $bch->cpu_rating}}">Hapus</a>
                     </td>
                 </tr>
                 @endforeach

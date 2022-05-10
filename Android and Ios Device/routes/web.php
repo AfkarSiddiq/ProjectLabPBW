@@ -24,10 +24,10 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/tampildata', 'MahasiswaController@readdata');
-Route::get('/tambahdata','MahasiswaController@input');
-Route::post('/mahasiswa/store', 'MahasiswaController@store');
+Route::get('/tampildata', 'benchmarksController@readdata');
+Route::get('/tambahdata','benchmarksController@input');
+Route::post('/mahasiswa/store', 'benchmarksController@store');
 
-Route::get('/mahasiswa/edit/{nim}', 'MahasiswaController@edit');
-Route::post('/mahasiswa/update', 'MahasiswaController@update');
-Route::get('/mahasiswa/hapus/{nim}', 'MahasiswaController@hapus');
+Route::get('/mahasiswa/edit/{cpu_rating}', 'benchmarksController@edit');
+Route::post('/mahasiswa/update', 'benchmarksController@update');
+Route::get('/mahasiswa/hapus/{cpu_rating}', 'benchmarksController@hapus');
