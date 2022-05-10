@@ -18,7 +18,7 @@
 <small><br>
 &nbsp;&nbsp;&nbsp;<img width="3%" src= https://img.icons8.com/emoji/48/000000/pencil-emoji.png> Bisa ubah data jika ada kesalahan dalam penulisan</small></br>
 <small>
-&nbsp;&nbsp;&nbsp;<img width="3%" src= https://img.icons8.com/external-flat-vinzence-studio/64/000000/external-bin-file-folder-flat-vinzence-studio.png> Bisa jugamenghapus data yang telah ditambahkan &#<128521></small></br>
+&nbsp;&nbsp;&nbsp;<img width="3%" src= https://img.icons8.com/external-flat-vinzence-studio/64/000000/external-bin-file-folder-flat-vinzence-studio.png> Bisa jugamenghapus data yang telah ditambahkan &#x<	1F60A></small></br>
 
 
 ## 𝐀𝐛𝐨𝐮𝐭 
