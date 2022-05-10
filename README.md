@@ -28,7 +28,7 @@ Project dikerjakan oleh :
 | M. Afkar Siddiq |  2008107010030 |
 
 Link repository github :
-<p href="https://github.com/AfkarSiddiq/ProjectLabPBW.git" target="_blank"> Disini</a>
+<a href="https://github.com/AfkarSiddiq/ProjectLabPBW.git" target="_blank"> Disini</a>
 
 ## 𝐋𝐢𝐜𝐞𝐧𝐬𝐞
 
