@@ -2,13 +2,13 @@
 <p align="center"><img width="50%" height="" src="./public/image/android-vs-ios.jpg"/></p>
 <p align="center">Ini adalah sebuah website yang membandingkan performa sistem operasi yang dipakai oleh smartphone masa kini, yaitu antara iOS dan Android. akan menampilkan data-data perbedaan CPU, GPU, Memori, User experience tergantung dari device yang di sebutkan</p>
 <h4>𝐓𝐀𝐌𝐏𝐈𝐋𝐀𝐍</h4>
-<img width="80%" height="" src="./public/image/Tampilan.png"/></a>
+<img width="80%" height="" src="Android and Ios Device/public/image/Tampilan.png"/></a>
 <h4>𝐂𝐑𝐄𝐀𝐓𝐄</h4>
-<img width="80%" height="" src="./public/image/Update.png"/></a>
+<img width="80%" height="" src="Android and Ios Device/public/image/Update.png"/></a>
 <h4>𝐑𝐄𝐀𝐃</h4>
-<img width="80%" height="" src="./public/image/Read.png"/></a>
+<img width="80%" height="" src="Android and Ios Device/public/image/Read.png"/></a>
 <h4>𝐔𝐏𝐃𝐀𝐓𝐄 & 𝐃𝐄𝐋𝐄𝐓𝐄</h4>
-<img width="80%" height="" src="./public/img/Edit.png"/></a>
+<img width="80%" height="" src="Android and Ios Device/public/img/Edit.png"/></a>
 
 <details open>
 
