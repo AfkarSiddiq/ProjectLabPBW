@@ -1,4 +1,4 @@
-## 𝐚𝐩𝐚 𝐢𝐭𝐮 <b><big>Android and IOS device</big></b>
+## <b><big>Android and IOS device</big></b>
 <p align="center"><img width="50%" height="" src="./public/image/android-vs-ios.jpg"/></p>
 <p align="center">Ini adalah sebuah website yang membandingkan performa sistem operasi yang dipakai oleh smartphone masa kini, yaitu antara iOS dan Android. akan menampilkan data-data perbedaan CPU, GPU, Memori, User experience tergantung dari device yang di sebutkan</p>
 <h4>𝐓𝐀𝐌𝐏𝐈𝐋𝐀𝐍</h4>
