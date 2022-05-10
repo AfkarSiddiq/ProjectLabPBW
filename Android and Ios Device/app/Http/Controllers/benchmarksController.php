@@ -13,7 +13,7 @@ class benchmarksController extends Controller
         $benchmarks= DB::table('benchmarks')->get();
 
         // mengirim ke halaman mahasiswa untuk ditampilkan data
-        return view('datamahasiswa',['benchmarks'=>$benchmarks]);
+        return view('data',['benchmarks'=>$benchmarks]);
     }
 
     public function input()

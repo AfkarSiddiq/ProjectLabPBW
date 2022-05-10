@@ -12,13 +12,7 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get('/welcome', function () {
-    return view('welcome');
-});
 
-Route::get('/test', function () {
-    return view('test');
-});
 
 Route::get('/', function () {
     return view('index');
@@ -26,8 +20,8 @@ Route::get('/', function () {
 
 Route::get('/tampildata', 'benchmarksController@readdata');
 Route::get('/tambahdata','benchmarksController@input');
-Route::post('/mahasiswa/store', 'benchmarksController@store');
+Route::post('/store', 'benchmarksController@store');
 
-Route::get('/mahasiswa/edit/{cpu_rating}', 'benchmarksController@edit');
-Route::post('/mahasiswa/update', 'benchmarksController@update');
-Route::get('/mahasiswa/hapus/{cpu_rating}', 'benchmarksController@hapus');
+Route::get('/edit/{cpu_rating}', 'benchmarksController@edit');
+Route::post('/update', 'benchmarksController@update');
+Route::get('/hapus/{cpu_rating}', 'benchmarksController@hapus');
