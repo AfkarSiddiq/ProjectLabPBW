@@ -8,7 +8,7 @@
 <h4>𝐑𝐄𝐀𝐃</h4>
 <img width="80%" height="" src="Android and Ios Device/public/image/Read.png"/></a>
 <h4>𝐔𝐏𝐃𝐀𝐓𝐄 & 𝐃𝐄𝐋𝐄𝐓𝐄</h4>
-<img width="80%" height="" src="Android and Ios Device/public/img/Edit.png"/></a>
+<img width="80%" height="" src="Android and Ios Device/public/image/Edit.png"/></a>
 
 <details open>
 
