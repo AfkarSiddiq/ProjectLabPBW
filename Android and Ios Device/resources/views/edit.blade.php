@@ -20,7 +20,7 @@ Bagian keempat dan terakhir dari skor keseluruhan adalah skor UX Anda. Skor UX t
 </p>
     @foreach($benchmarks as $bch)
     <center>
-        <form action="/mahasiswa/update" method ="post">
+        <form action="/update" method ="post">
             {{csrf_field()}}
             Device <br>  <input type=text, name="Device", required="required", value="{{$bch->Device}}"><br>
             CPU rating <br> <input type=text, name="cpu_rating", required="required", value="{{$bch->cpu_rating}}"><br>
